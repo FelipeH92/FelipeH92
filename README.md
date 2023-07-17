@@ -14,7 +14,7 @@ I'm Felipe, a Robotics Software Enginner based on Campina Grande - Brazil. 🇧�
 
 You can check some of the work I'm making on Smart Industry inovations in the [Smart Factory Lab](https://github.com/SmartFactoryLab-UFCG)!
 
-#### 📟 How to reach me 🐷
+### 📟 How to reach me 🐷
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/FelipeH92)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-henrique-neiva-do-nascimento-196122a0/)
@@ -25,7 +25,7 @@ You can check some of the work I'm making on Smart Industry inovations in the [S
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeH92&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-#### 🗿 Languages and Skills 💻
+### 🗿 Languages and Skills 💻
  
   <div style="display: inline_block"><br>
   <img align="center" title="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
