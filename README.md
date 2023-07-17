@@ -35,7 +35,7 @@ You can check some of the work I'm making on Smart Industry inovations in the [S
   <img align="center" title="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" title="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="60" height="30"/> &ensp;</a>
-  <img align="center" title="Yocto" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Yocto_Project_logo.svg">
+  <img align="center" title="Yocto" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg">
   </div>
 
 <!--
