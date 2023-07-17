@@ -8,7 +8,9 @@ I'm Felipe, a Robotics Software Enginner based on Campina Grande - Brazil. ðŸ‡§ð
 
 ### Check this out
 
-![Smart Factory Lab](https://github.com/SmartFactoryLab-UFCG/.github/blob/main/smart-factory-logo-v1.png)
+<p align="left">
+  <img width="180" height="183" src="https://github.com/SmartFactoryLab-UFCG/.github/blob/main/smart-factory-logo-v1.png">
+</p>
 
 You can check some of the work I'm making on Smart Industry inovations in the [Smart Factory Lab](https://github.com/SmartFactoryLab-UFCG)!
 
