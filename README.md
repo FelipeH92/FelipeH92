@@ -6,7 +6,7 @@ I'm Felipe, a Robotics Software Enginner based on Campina Grande - Brazil. 🇧�
 - 💻 I'm interested in robotics, IA, embedded Linux, software engineering and related fields.
 - 📚 I'm currently learning more about ROS 2, Yocto and IA.
 
-### Check this out
+### 👇 Check this out
 
 <p align="left">
   <img width="180" height="183" src="https://github.com/SmartFactoryLab-UFCG/.github/blob/main/smart-factory-logo-v1.png">
@@ -25,7 +25,7 @@ You can check some of the work I'm making on Smart Industry inovations in the [S
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeH92&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-#### Languages and Skills 💻
+#### 🗿 Languages and Skills 💻
  
   <div style="display: inline_block"><br>
   <img align="center" title="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
